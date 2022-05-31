@@ -1,3 +1,10 @@
+# Created by Agamdeep Singh / CodeWithAgam
+# Youtube: CodeWithAgam
+# Github: CodeWithAgam
+# Instagram: @coderagam001 / @codewithagam
+# Twitter: @CoderAgam001
+# Linkdin: Agamdeep Singh
+
 from data import question_data
 from question_model import Question
 from quiz_brain import QuizBrain
